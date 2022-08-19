@@ -7,13 +7,13 @@ I suppose this is the part where I tell you a little big about me?
 ![My Name Is](Name.png)
    
 ## 🔧 I am a junior developer skilled in:
-![HTML, CSS, Javascript Logo's](HTML_CSS_JS.png) 
+![HTML, CSS, Javascript Logo's](HTML_CSS_JS.png)    
+![Bootstrap](Bootstrap.png)    
+
    
 ## 📚 I am currently learning:   
-![Mongo DB](MongoDB.png)    
-![Express JS](Express.png)    
-![React JS](React.png)    
-![Node JS](Nodejs.png)    
+![Mongo DB](MongoDB.png) ![Express JS](Express.png)    
+![React JS](React.png) ![Node JS](Nodejs.png)    
    
 ## 💻 Projects
 I am currently working on my first project, a wikipedia for cryptids, creates of myth, legend and folklore.   
