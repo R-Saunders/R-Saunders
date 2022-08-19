@@ -24,7 +24,8 @@ I hope that this will serve not only as a great knowledge base for those who hav
 ## 📖 Other Skills
 🖋️ I have a lot of experience in content writing, both on blogs and general webpages as well as full articles. I have always done so with an SEO focus and I have written blog posts for [Norfolk Developers](https://www.norfolkdevelopers.com/) & [Tech Educators](https://techeducators.co.uk/).   
 🧑‍💼 I have a lot of experience as a people manager, managing small & focused teams of just three people as well as larger teams of 20+ people.   
-👨‍🏫 I am a real philomath with a thirst for knowledge, I am also a keen teacher and mentor who has a real belief that all knowledge should be accesible to all.   
+🎓 I am a real philomath with a thirst for knowledge, I am also a keen teacher and mentor who has a real belief that all knowledge should be accesible to all.   
+👨‍🏫 I am big believer of equal opportunities and I am a volunteer coach at [Codebar](https://codebar.io/coaches)    
 
 ## 🧠 A bit more about me
 👩 Behind me is my fantastic partner who helps to motivate and drive me forwards.   
