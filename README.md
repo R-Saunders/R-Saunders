@@ -2,7 +2,7 @@
 
 # Hello!
 
-I suppose this is the part where I tell you a little big about me?
+I suppose this is the part where I tell you a little bit about me?
 
 ![My Name Is](Name.png)
    
@@ -16,7 +16,7 @@ I suppose this is the part where I tell you a little big about me?
 ![React JS](React.png) ![Node JS](Nodejs.png)    
    
 ## 💻 Projects
-I am currently working on my first project, a wikipedia for cryptids, creates of myth, legend and folklore.   
+I am currently working on my first project, a wiki type site for cryptids, creatures of myth, legend and folklore.   
 I have always been a big fan of fantasy as well as myths, legends and folklore. I have always found it's hard to find a central catalogue or compendium for these. So, I decided to make one.   
 I'm sure I will need some help filling it up and much like Wikipedia I'll be reaching out once I have everything in place.   
 I hope that this will serve not only as a great knowledge base for those who have interest in cryptozoology but also serve as a great place of inspiration for creatives working on their own creatures and tales.   
