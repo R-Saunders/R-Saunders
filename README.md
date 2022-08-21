@@ -12,7 +12,7 @@ I suppose this is the part where I tell you a little bit about me?
 
    
 ## 📚 I am currently learning:   
-![Mongo DB](MongoDB.png) ![Express JS](Express.png#gh-light-mode-only) ![Express JS](ExpressJS_Dark.png#gh-dark-mode-only)   
+![Mongo DB](MongoDB.png) ![Express JS](ExpressJS.png)   
 ![React JS](React.png) ![Node JS](Nodejs.png)    
    
 ## 💻 Projects
