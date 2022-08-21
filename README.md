@@ -36,8 +36,8 @@ I suppose this is the part where I tell you a little bit about me?
 🎲 And let's not forget board games too!   
 
 ## ✍️ I also like to write
-⌨️ You can find me on [Dev](https://dev.to/crimson753)
-🖊️ Or on [Hashnode](https://hashnode.com/@Rich89)
+⌨️ You can find me on [Dev](https://dev.to/crimson753)   
+🖊️ Or on [Hashnode](https://hashnode.com/@Rich89)   
 
 ## 💬 Get in touch
 📧 You can email me at richsaunders@protonmail.com   
