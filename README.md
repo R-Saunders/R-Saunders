@@ -35,6 +35,10 @@ I suppose this is the part where I tell you a little bit about me?
 🎮 I'm a keen gamer!   
 🎲 And let's not forget board games too!   
 
+## ✍️ I also like to write
+⌨️ You can find me on [Dev](https://dev.to/crimson753)
+🖊️ Or on [Hashnode](https://hashnode.com/@Rich89)
+
 ## 💬 Get in touch
 📧 You can email me at richsaunders@protonmail.com   
 🐦 Find me on Twitter at [@Crimson753](https://twitter.com/Crimson753)   
