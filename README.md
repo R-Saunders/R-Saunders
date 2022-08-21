@@ -16,7 +16,7 @@ I suppose this is the part where I tell you a little bit about me?
 ![React JS](React.png) ![Node JS](Nodejs.png)    
    
 ## 💻 Projects
-1️⃣ I am currently working on my first project.
+1️⃣ I am currently working on my first project.   
 🐉 I am making a wiki type site for cryptids, creatures of myth, legend and folklore.   
 🦄 I have always been a big fan of fantasy as well as myths, legends and folklore. I have always found it's hard to find a central catalogue or compendium for these. So, I decided to make one.   
 🧛 I'm sure I will need some help filling it up and much like Wikipedia I'll be reaching out once I have everything in place.   
