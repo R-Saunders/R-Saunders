@@ -12,7 +12,7 @@ I suppose this is the part where I tell you a little bit about me?
 
    
 ## 📚 I am currently learning:   
-![Mongo DB](MongoDB.png) ![Express JS](ExpressJS.png)   
+![Mongo DB](MongoDB_Logo.png) ![Express JS](ExpressJS.png)   
 ![React JS](React.png) ![Node JS](Nodejs.png)    
    
 ## 💻 Projects
