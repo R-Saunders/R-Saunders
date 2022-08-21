@@ -7,12 +7,12 @@ I suppose this is the part where I tell you a little bit about me?
 ![My Name Is](Name.png)
    
 ## 🔧 I am a junior developer skilled in:
-![HTML, CSS, Javascript Logo's](HTML_CSS_JS.png)    
+![HTML, CSS, Javascript Logo's](HTML_CSS_JS.png#gh-light-mode-only) ![HTML, CSS, Javascript Logo's](HTML_CSS_JS_Dark.png#gh-dark-mode-only)    
 ![Bootstrap](Bootstrap.png)    
 
    
 ## 📚 I am currently learning:   
-![Mongo DB](MongoDB.png) ![Express JS](Express.png)    
+![Mongo DB](MongoDB.png) ![Express JS](Express.png#gh-light-mode-only) ![Express JS](ExpressJS_Dark.png#gh-dark-mode-only)   
 ![React JS](React.png) ![Node JS](Nodejs.png)    
    
 ## 💻 Projects
