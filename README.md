@@ -16,10 +16,11 @@ I suppose this is the part where I tell you a little bit about me?
 ![React JS](React.png) ![Node JS](Nodejs.png)    
    
 ## 💻 Projects
-I am currently working on my first project, a wiki type site for cryptids, creatures of myth, legend and folklore.   
-I have always been a big fan of fantasy as well as myths, legends and folklore. I have always found it's hard to find a central catalogue or compendium for these. So, I decided to make one.   
-I'm sure I will need some help filling it up and much like Wikipedia I'll be reaching out once I have everything in place.   
-I hope that this will serve not only as a great knowledge base for those who have interest in cryptozoology but also serve as a great place of inspiration for creatives working on their own creatures and tales.   
+1️⃣ I am currently working on my first project.
+🐉 I am making a wiki type site for cryptids, creatures of myth, legend and folklore.   
+🦄 I have always been a big fan of fantasy as well as myths, legends and folklore. I have always found it's hard to find a central catalogue or compendium for these. So, I decided to make one.   
+🧛 I'm sure I will need some help filling it up and much like Wikipedia I'll be reaching out once I have everything in place.   
+🧟 I hope that this will serve not only as a great knowledge base for those who have interest in cryptozoology but also serve as a great place of inspiration for creatives working on their own creatures and tales.   
 
 ## 📖 Other Skills
 🖋️ I have a lot of experience in content writing, both on blogs and general webpages as well as full articles. I have always done so with an SEO focus and I have written blog posts for [Norfolk Developers](https://www.norfolkdevelopers.com/) & [Tech Educators](https://techeducators.co.uk/).   
