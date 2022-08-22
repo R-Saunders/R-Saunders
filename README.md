@@ -6,7 +6,7 @@ I suppose this is the part where I tell you a little bit about me?
 
 ![My Name Is](Name.png)
    
-## 🔧 I am a junior developer skilled in:
+## 🔧 I am a developer skilled in:
 ![HTML, CSS, Javascript Logo's](HTML_CSS_JS.png#gh-light-mode-only) ![HTML, CSS, Javascript Logo's](HTML_CSS_JS_Dark.png#gh-dark-mode-only)    
 ![Bootstrap](Bootstrap.png)    
 
@@ -17,10 +17,13 @@ I suppose this is the part where I tell you a little bit about me?
    
 ## 💻 Projects
 1️⃣ I am currently working on my first project.   
-🐉 I am making a wiki type site for cryptids, creatures of myth, legend and folklore.   
-🦄 I have always been a big fan of fantasy as well as myths, legends and folklore. I have always found it's hard to find a central catalogue or compendium for these. So, I decided to make one.   
-🧛 I'm sure I will need some help filling it up and much like Wikipedia I'll be reaching out once I have everything in place.   
-🧟 I hope that this will serve not only as a great knowledge base for those who have interest in cryptozoology but also serve as a great place of inspiration for creatives working on their own creatures and tales.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐉 I am making a wiki type site for cryptids, creatures of myth, legend and folklore.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🦄 I have always found it's hard to find a central catalogue or compendium for cryptids and fantastical creatures. So, I decided to make one.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧛 I will be looking for community contributions to help fill it out, just like any other wiki.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧟 I hope that this will serve not only as a great knowledge base for cryptozoologists but also serve as a great place of inspiration for creatives too.   
+2️⃣ I am also working on building my own website and portfolio.      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 It's a work in progress I am excited to debut.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤔 It will be my first portfolio so feedback is very welcome!
 
 ## 📖 Other Skills
 🖋️ I have a lot of experience in content writing, both on blogs and general webpages as well as full articles. I have always done so with an SEO focus and I have written blog posts for [Norfolk Developers](https://www.norfolkdevelopers.com/) & [Tech Educators](https://techeducators.co.uk/).   
