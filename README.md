@@ -10,8 +10,11 @@ I suppose this is the part where I tell you a little bit about me?
 ![HTML, CSS, Javascript Logo's](HTML_CSS_JS.png#gh-light-mode-only) ![HTML, CSS, Javascript Logo's](HTML_CSS_JS_Dark.png#gh-dark-mode-only)    
 ![Bootstrap](Bootstrap.png)    
 
+## I am currently learning:  
+Typescript. 
+Nextjs. 
    
-## 📚 I am currently learning:   
+## 📚 I am currently teaching:   
 ![Mongo DB](MongoDB_Logo.png) ![Express JS](ExpressJS.png)   
 ![React JS](React.png) ![Node JS](Nodejs.png)    
    
