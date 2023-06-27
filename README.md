@@ -29,9 +29,9 @@ Nextjs.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 It's a work in progress I am excited to debut.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤔 It will be my first portfolio so feedback is very welcome!     
 3️⃣ Another website on it's way for my partner.    
-4️⃣ The Box Model - A single page site to serve as an educational tool for those learning about the box model within CSS.
+4️⃣ [The Box Model](https://www.theboxmodel.co.uk) - A single page site to serve as an educational tool for those learning about the box model within CSS.
 
-## 📖 Experience & Skills
+## 📖 Other Experience & Skills
 🖋️ Content writing from blogs to general webpages and full articles. I have written blog posts for [Norfolk Developers](https://www.norfolkdevelopers.com/) & [Tech Educators](https://techeducators.co.uk/).   
 🧑‍💼 People management, from small & focused teams of just three people to larger teams of 20+ people.   
 🎓 A philomath with a thirst for knowledge, always looking to improve and upskill.   
@@ -45,7 +45,6 @@ Nextjs.
 🎮 I'm a keen gamer!   
 🎲 And let's not forget board games too!   
 
-## 💬 Get in touch
-📧 You can email me at richsaunders@protonmail.com   
+## 💬 Get in touch   
 🐦 Find me on Twitter at [@Crimson753](https://twitter.com/Crimson753)   
 🤝 Or on [LinkedIn](https://www.linkedin.com/in/rich-saunders/)
