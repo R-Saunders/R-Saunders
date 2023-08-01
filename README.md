@@ -11,7 +11,7 @@ I suppose this is the part where I tell you a little bit about me?
 ![Bootstrap](Bootstrap.png)    
 
 ## I am also a qualified digital marketer skilled in:
-🖋️ Content Marketing   
+🖋️ Content Marketing & Writing   
 🤝 Social Media Marketing   
 🔍 SEO (Search Engine Optimization)   
 🔎 Paid Search (PPC) with Google Ads   
