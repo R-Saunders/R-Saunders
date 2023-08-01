@@ -10,6 +10,18 @@ I suppose this is the part where I tell you a little bit about me?
 ![HTML, CSS, Javascript Logo's](HTML_CSS_JS.png#gh-light-mode-only) ![HTML, CSS, Javascript Logo's](HTML_CSS_JS_Dark.png#gh-dark-mode-only)    
 ![Bootstrap](Bootstrap.png)    
 
+## I am also a qualified digital marketer skilled in:
+Content Marketing   
+Social Media Marketing   
+SEO (Search Engine Optimization)   
+Paid Search (PPC) with Google Ads   
+YouTube and Display Advertising   
+Email Marketing   
+Website Optimization   
+Analytics with Google Analytics   
+Digital Marketing Strategy   
+[You can check out my qualification with the DMI here](https://certs.digitalmarketinginstitute.com/21202785-1023-4a34-9d87-28750fbc689f)   
+
 ## I am currently learning:  
 Typescript. 
 Nextjs. 
